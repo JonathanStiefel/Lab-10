@@ -1,5 +1,5 @@
 ---
-title: "Lab10 yoyo"
+title: "Lab10"
 author: "Insert your name here"
 date: "10/20/2020"
 output:
