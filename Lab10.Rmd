@@ -1,7 +1,6 @@
 ---
-huh
 title: "Lab10"
-author: "Insert your name here"
+author: "Jonathan Stiefel"
 date: "10/20/2020"
 output:
   pdf_document: default
